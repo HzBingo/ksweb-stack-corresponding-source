@@ -1,0 +1,10 @@
+6b80c566146dac6c6499ecc5881fa9af8d4d0a7e22957dfe1f62876a60ca1acf *./README.md
+4ae44fe614a470a87548ed8c44d470b33fc3010ef2d5596123dfc19fe23599c1 *./app/src/main/assets/install/mysql.zip
+dbab00afe560d19d5eeee88b87f50fa9816904ae6afbaac2ef6399fc9c20b7ba *./tools/_xc-env.sh
+1c81c3bab3934f9083d2968ed3add123499dbbaaac8dd8b503ece336b30af9b4 *./tools/build-mariadb.sh
+6a1398823db64f1174fe8819ff42ded0c3adc25d72a63629b70a66ba730d230b *./tools/build-msmtp.sh
+9cba32455b62fc67d407541d7d4a13790ed116f0da9174dc7a4121f27bec3af4 *./tools/host-cc-mariadb.py
+40a087c59f91b0560351c53c51d8ac9a16fe828034e3d2221a07cf67da8f151f *./tools/patch-mariadb-android.py
+7da1aa7e4a89675644492ace0eb255e5a5dbcaa92be65096579837b21a18e3f0 *./tools/stage-mysql.py
+c362c0340136abf1df30eb912c486aad8bd44037b36e365b25ed9c79f6203948 *./upstream/android-compat/getpass.c
+94030580a63a747faa0a3b9b1b264ae355aad33a4d94b832bfeb5b21633c965e *./upstream/msmtp-1.8.27.tar.xz
